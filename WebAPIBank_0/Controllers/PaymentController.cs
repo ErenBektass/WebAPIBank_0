@@ -22,7 +22,7 @@ namespace WebAPIBank_0.Controllers
 
         //Asagıdaki Action sadece development testi icindir... API canlıya cıkacagı zaman kesinlikle acık bırakılmamalıdır...
 
-        [HttpGet]
+    /*    [HttpGet]
         public List<PaymentDTO> GetAll()
         {
             return _db.Cards.Select(x => new PaymentDTO
@@ -32,7 +32,7 @@ namespace WebAPIBank_0.Controllers
                 CardNumber = x.CardNumber
             }).ToList();
         }
-
+    */
         [HttpPost]
         public IHttpActionResult ReceivePayment(PaymentDTO item)
         {
