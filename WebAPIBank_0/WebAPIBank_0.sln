@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIBank_0", "WebAPIBank_0\WebAPIBank_0.csproj", "{2BC39F74-550A-4850-A701-532C1FF0605F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIBank_0", "WebAPIBank_0.csproj", "{2BC39F74-550A-4850-A701-532C1FF0605F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EF3A980B-BDA8-4288-BC76-01EBB417EBF6}
+		SolutionGuid = {76D7D19C-FEB3-4C36-891C-D4C220FB031E}
 	EndGlobalSection
 EndGlobal
